@@ -1,0 +1,6 @@
+{
+  "name": "Shatterpoint Companion",
+  "description": "Dado de ataque/defensa, consulta de personajes de la caja base, habilidades especiales de combate para Star Wars: Shatterpoint.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
